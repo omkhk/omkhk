@@ -58,7 +58,7 @@ I am passionate about building **scalable backend systems**, writing clean code,
 
 ---
 
-## 📌 Open To Opportunities
-🚀 Actively looking for **Java Backend / Full Stack Developer** roles and internships.
+##  Open To Opportunities
+🚀 Actively looking for **Java Backend / Full Stack Developer** roles 
 
 📫 Feel free to connect via **LinkedIn or Email**.
