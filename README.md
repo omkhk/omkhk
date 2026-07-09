@@ -2,8 +2,7 @@
 
 ### 🚀 Full Stack Java Developer | Spring Boot | AWS  
 
-I am a **Full Stack Java Developer** with hands-on experience in **Spring Boot** and core web technologies.  
-Currently, I am a **final-year B.Tech student** at **GH Raisoni College of Engineering and Management, Pune**.
+I am  **B.Tech (IT) graduate with strong hands-on experience building backend systems using Spring Boot, RESTful APIs, and both relational and vector databases (PostgreSQL, PGVector). Have independently designed and developed multiple full-stack applications, including authentication systems, database architectures, and REST APIs. Strong fundamentals in Java, the Spring ecosystem, and scalable application design — seeking a Java Backend Developer role**.
 
 I am passionate about building **scalable backend systems**, writing clean code, and continuously learning new technologies to grow as a software developer.
 
