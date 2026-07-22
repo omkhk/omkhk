@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Om Kheradkar  
 
-### 🚀 Full Stack Java Developer | Spring Boot | AWS  
+### 🚀 Java Backend Developer | Spring Boot | Spring Security | Spring AI | AWS
 
-  **I am B.Tech (IT) graduate with strong hands-on experience building backend systems using Spring Boot, RESTful APIs, and both relational and vector databases (PostgreSQL, PGVector). Have independently designed and developed multiple full-stack applications, including authentication systems, database architectures, and REST APIs. Strong fundamentals in Java, the Spring ecosystem, and scalable application design — seeking a Java Backend Developer role**.
+ I'm a **B.Tech graduate in Information Technology** with hands-on experience building backend applications using **Java, Spring Boot, Spring Security, RESTful APIs, PostgreSQL, MySQL, and PGVector**.
 
-I am passionate about building **scalable backend systems**, writing clean code, and continuously learning new technologies to grow as a software developer.
+I've independently designed and developed multiple full-stack applications, including **JWT-based authentication & authorization systems**, REST APIs, database architectures, and AI-powered applications using **Spring AI** and vector databases.
+
+I'm passionate about building scalable backend systems, writing clean and maintainable code, and continuously learning modern technologies to grow as a software engineer.
 
 ---
 
@@ -15,10 +17,13 @@ I am passionate about building **scalable backend systems**, writing clean code,
 ---
 
 ## 💡 Key Skills & Strengths
+
 - Backend Development using **Java**
 - RESTful API Development with **Spring Boot**
-- MVC Architecture & Layered Design
-- Database Concepts & SQL
+- Authentication & Authorization using **Spring Security & JWT**
+- AI-powered Applications with **Spring AI & PGVector**
+- Database Design using **PostgreSQL & MySQL**
+- MVC & Layered Architecture
 - Cloud Fundamentals with **AWS**
 - Version Control using **Git & GitHub**
 
