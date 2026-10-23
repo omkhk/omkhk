@@ -56,9 +56,9 @@ I'm passionate about building scalable backend systems, writing clean and mainta
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=omkhk18&theme=dark&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=omkhk18&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkhk18&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=omkhk&theme=dark&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=omkhk&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkhk&layout=compact&theme=dark)
 
 ---
 
