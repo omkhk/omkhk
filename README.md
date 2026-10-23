@@ -53,14 +53,7 @@ I'm passionate about building scalable backend systems, writing clean and mainta
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=omkhk&theme=dark&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=omkhk&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkhk&layout=compact&theme=dark)
-
----
 
 ##  Open To Opportunities
 🚀 Actively looking for **Java Backend / Full Stack Developer** roles 
